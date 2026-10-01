@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi,%20I'm%20Nathan%20Ahnaf%20Hafiz&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" />
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi,%20I'm%20Nathan%20Ahnaf%20Hafiz&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60)
 
 </div>
 
@@ -56,13 +55,13 @@ I focus on developing complete end-to-end applications that prioritize clean arc
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecsztassy&show_icons=true&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsztassy&layout=compact&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ecsztassy&show_icons=true&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsztassy&layout=compact&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=0d1117" width="48%" />
+</p>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%" />
-</div>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer)
