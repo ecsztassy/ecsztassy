@@ -15,7 +15,7 @@ I focus on developing complete end-to-end applications that prioritize clean arc
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nathanahnaf6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -57,8 +57,8 @@ I focus on developing complete end-to-end applications that prioritize clean arc
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecsztassy&show_icons=true&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsztassy&layout=compact&theme=dark&hide_border=false&title_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="49%" />
 </div>
 
 <br />
