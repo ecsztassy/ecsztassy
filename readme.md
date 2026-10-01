@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi%20I%20am%20Nathan%20Ahnaf%20Hafiz&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nathan+Ahnaf+Hafiz;Full+Stack+Web+%26+Mobile+Developer" alt="Typing Header" />
 
 </div>
 
