@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi,%20I'm%20Nathan%20Ahnaf%20Hafiz&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi,%20I'm%20Nathan%20Ahnaf%20Hafiz&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" />
 
 </div>
 
@@ -64,4 +64,6 @@ I focus on developing complete end-to-end applications that prioritize clean arc
 
 <div align="center">
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%" />
+
+</div>
